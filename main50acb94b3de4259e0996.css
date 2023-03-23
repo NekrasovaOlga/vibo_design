@@ -1194,7 +1194,7 @@ button {
     margin: 0 auto;
   }
 }
-@media screen and (max-width: 354px) {
+@media screen and (max-width: 390px) {
   .call .content {
     padding-top: 202px;
   }
