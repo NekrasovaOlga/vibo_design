@@ -406,7 +406,7 @@ button {
     margin-bottom: 40px;
   }
 }
-@media screen and (max-width: 378px) {
+@media screen and (max-width: 390px) {
   .content {
     max-width: 90%;
   }
